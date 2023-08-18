@@ -1,0 +1,1 @@
+powershell.exe -ExecutionPolicy Bypass -File "discord compressor.ps1" %1

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Discord Compressor", "Discord Compressor\Discord Compressor.vdproj", "{5EDE10BE-EA98-45E8-AC6F-8AC4B5381DC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EDE10BE-EA98-45E8-AC6F-8AC4B5381DC0}.Debug|Default.ActiveCfg = Release
+		{5EDE10BE-EA98-45E8-AC6F-8AC4B5381DC0}.Debug|Default.Build.0 = Release
+		{5EDE10BE-EA98-45E8-AC6F-8AC4B5381DC0}.Release|Default.ActiveCfg = Release
+		{5EDE10BE-EA98-45E8-AC6F-8AC4B5381DC0}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {581B5008-0E8C-42BD-94B1-CE81E0B87681}
+	EndGlobalSection
+EndGlobal
